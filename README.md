@@ -7,3 +7,5 @@ Binder:
 
 RStudio:
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/eknippler/BIOS512/main?urlpath=rstudio)
+
+Lab: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/eknippler/BIOS512/main?urlpath=lab)
